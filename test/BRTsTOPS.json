@@ -1,0 +1,416 @@
+[
+{
+"json_featuretype":"BRTsTOPS"
+,"BRT1":1
+,"BRT2":2
+,"MINOFDISTA":8e-005
+,"stop_lon":153.024839
+,"stop_lat":-27.470371
+,"OID_1":6
+,"stop_name":"Queen Street station"
+,"DISTANCE":8e-005
+,"stop_n_2":" platform C1"
+,"INPUT_FID":6
+,"OBJECTID":7
+,"stop_id":"1009"
+,"FID":0
+,"json_ogc_wkt_crs":"GEOGCS[\"Geodetic Datum of Australia 1994, Latitude-Longitude; Degrees\",DATUM[\"Geocentric_Datum_of_Australia_1994\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6283\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4283\"]]"
+,"json_geometry":{"type":"Point","coordinates":[153.024839,-27.4703709999999]}
+}
+,{
+"json_featuretype":"BRTsTOPS"
+,"BRT1":1
+,"BRT2":2
+,"MINOFDISTA":6e-005
+,"stop_lon":153.030604
+,"stop_lat":-27.494044
+,"OID_1":20
+,"stop_name":"Boggo Road station"
+,"DISTANCE":6e-005
+,"stop_n_2":" platform 5"
+,"INPUT_FID":20
+,"OBJECTID":21
+,"stop_id":"10795"
+,"FID":1
+,"json_ogc_wkt_crs":"GEOGCS[\"Geodetic Datum of Australia 1994, Latitude-Longitude; Degrees\",DATUM[\"Geocentric_Datum_of_Australia_1994\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6283\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4283\"]]"
+,"json_geometry":{"type":"Point","coordinates":[153.030604,-27.494044]}
+}
+,{
+"json_featuretype":"BRTsTOPS"
+,"BRT1":1
+,"BRT2":2
+,"MINOFDISTA":4e-005
+,"stop_lon":153.034195
+,"stop_lat":-27.496767
+,"OID_1":22
+,"stop_name":"PA Hospital station"
+,"DISTANCE":4e-005
+,"stop_n_2":" platform 1"
+,"INPUT_FID":22
+,"OBJECTID":23
+,"stop_id":"10797"
+,"FID":2
+,"json_ogc_wkt_crs":"GEOGCS[\"Geodetic Datum of Australia 1994, Latitude-Longitude; Degrees\",DATUM[\"Geocentric_Datum_of_Australia_1994\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6283\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4283\"]]"
+,"json_geometry":{"type":"Point","coordinates":[153.034195,-27.496767]}
+}
+,{
+"json_featuretype":"BRTsTOPS"
+,"BRT1":1
+,"BRT2":2
+,"MINOFDISTA":6e-005
+,"stop_lon":153.039582
+,"stop_lat":-27.497275
+,"OID_1":25
+,"stop_name":"Buranda busway"
+,"DISTANCE":6e-005
+,"stop_n_2":" platform 2"
+,"INPUT_FID":25
+,"OBJECTID":26
+,"stop_id":"10813"
+,"FID":3
+,"json_ogc_wkt_crs":"GEOGCS[\"Geodetic Datum of Australia 1994, Latitude-Longitude; Degrees\",DATUM[\"Geocentric_Datum_of_Australia_1994\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6283\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4283\"]]"
+,"json_geometry":{"type":"Point","coordinates":[153.039582,-27.4972749999999]}
+}
+,{
+"json_featuretype":"BRTsTOPS"
+,"BRT1":1
+,"BRT2":2
+,"MINOFDISTA":6e-005
+,"stop_lon":153.057514
+,"stop_lat":-27.528739
+,"OID_1":29
+,"stop_name":"Holland Park West station"
+,"DISTANCE":6e-005
+,"stop_n_2":" platform 2"
+,"INPUT_FID":29
+,"OBJECTID":30
+,"stop_id":"10817"
+,"FID":4
+,"json_ogc_wkt_crs":"GEOGCS[\"Geodetic Datum of Australia 1994, Latitude-Longitude; Degrees\",DATUM[\"Geocentric_Datum_of_Australia_1994\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6283\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4283\"]]"
+,"json_geometry":{"type":"Point","coordinates":[153.057514,-27.528739]}
+}
+,{
+"json_featuretype":"BRTsTOPS"
+,"BRT1":1
+,"BRT2":2
+,"MINOFDISTA":6e-005
+,"stop_lon":153.064253
+,"stop_lat":-27.54655
+,"OID_1":32
+,"stop_name":"Griffith University station"
+,"DISTANCE":6e-005
+,"stop_n_2":" platform 1"
+,"INPUT_FID":32
+,"OBJECTID":33
+,"stop_id":"10820"
+,"FID":5
+,"json_ogc_wkt_crs":"GEOGCS[\"Geodetic Datum of Australia 1994, Latitude-Longitude; Degrees\",DATUM[\"Geocentric_Datum_of_Australia_1994\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6283\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4283\"]]"
+,"json_geometry":{"type":"Point","coordinates":[153.064253,-27.54655]}
+}
+,{
+"json_featuretype":"BRTsTOPS"
+,"BRT1":1
+,"BRT2":2
+,"MINOFDISTA":2e-005
+,"stop_lon":153.081306
+,"stop_lat":-27.564043
+,"OID_1":34
+,"stop_name":"Upper Mt Gravatt station"
+,"DISTANCE":2e-005
+,"stop_n_2":" platform 1"
+,"INPUT_FID":34
+,"OBJECTID":35
+,"stop_id":"10822"
+,"FID":6
+,"json_ogc_wkt_crs":"GEOGCS[\"Geodetic Datum of Australia 1994, Latitude-Longitude; Degrees\",DATUM[\"Geocentric_Datum_of_Australia_1994\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6283\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4283\"]]"
+,"json_geometry":{"type":"Point","coordinates":[153.081306,-27.564043]}
+}
+,{
+"json_featuretype":"BRTsTOPS"
+,"BRT1":1
+,"BRT2":2
+,"MINOFDISTA":6e-005
+,"stop_lon":153.101774
+,"stop_lat":-27.578465
+,"OID_1":36
+,"stop_name":"Eight Mile Plains station"
+,"DISTANCE":6e-005
+,"stop_n_2":" platform 1"
+,"INPUT_FID":36
+,"OBJECTID":37
+,"stop_id":"10824"
+,"FID":7
+,"json_ogc_wkt_crs":"GEOGCS[\"Geodetic Datum of Australia 1994, Latitude-Longitude; Degrees\",DATUM[\"Geocentric_Datum_of_Australia_1994\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6283\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4283\"]]"
+,"json_geometry":{"type":"Point","coordinates":[153.101774,-27.5784649999999]}
+}
+,{
+"json_featuretype":"BRTsTOPS"
+,"BRT1":1
+,"BRT2":2
+,"MINOFDISTA":5e-005
+,"stop_lon":153.018915
+,"stop_lat":-27.473642
+,"OID_1":37
+,"stop_name":"Cultural Centre station"
+,"DISTANCE":5e-005
+,"stop_n_2":" "
+,"INPUT_FID":37
+,"OBJECTID":38
+,"stop_id":"10866"
+,"FID":8
+,"json_ogc_wkt_crs":"GEOGCS[\"Geodetic Datum of Australia 1994, Latitude-Longitude; Degrees\",DATUM[\"Geocentric_Datum_of_Australia_1994\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6283\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4283\"]]"
+,"json_geometry":{"type":"Point","coordinates":[153.018915,-27.473642]}
+}
+,{
+"json_featuretype":"BRTsTOPS"
+,"BRT1":1
+,"BRT2":2
+,"MINOFDISTA":4e-005
+,"stop_lon":153.035426
+,"stop_lat":-27.415215
+,"OID_1":39
+,"stop_name":"Kedron Brook station"
+,"DISTANCE":4e-005
+,"stop_n_2":" platform 2"
+,"INPUT_FID":39
+,"OBJECTID":40
+,"stop_id":"11269"
+,"FID":9
+,"json_ogc_wkt_crs":"GEOGCS[\"Geodetic Datum of Australia 1994, Latitude-Longitude; Degrees\",DATUM[\"Geocentric_Datum_of_Australia_1994\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6283\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4283\"]]"
+,"json_geometry":{"type":"Point","coordinates":[153.035421316,-27.415216793]}
+}
+,{
+"json_featuretype":"BRTsTOPS"
+,"BRT1":1
+,"BRT2":2
+,"MINOFDISTA":3e-005
+,"stop_lon":153.034256
+,"stop_lat":-27.419909
+,"OID_1":41
+,"stop_name":"Lutwyche station"
+,"DISTANCE":3e-005
+,"stop_n_2":" platform 2"
+,"INPUT_FID":41
+,"OBJECTID":42
+,"stop_id":"11271"
+,"FID":10
+,"json_ogc_wkt_crs":"GEOGCS[\"Geodetic Datum of Australia 1994, Latitude-Longitude; Degrees\",DATUM[\"Geocentric_Datum_of_Australia_1994\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6283\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4283\"]]"
+,"json_geometry":{"type":"Point","coordinates":[153.034175698,-27.4199149909999]}
+}
+,{
+"json_featuretype":"BRTsTOPS"
+,"BRT1":1
+,"BRT2":2
+,"MINOFDISTA":7e-005
+,"stop_lon":153.017945
+,"stop_lat":-27.498043
+,"OID_1":45
+,"stop_name":"UQ Lakes"
+,"DISTANCE":7e-005
+,"stop_n_2":" platform C"
+,"INPUT_FID":45
+,"OBJECTID":46
+,"stop_id":"1878"
+,"FID":11
+,"json_ogc_wkt_crs":"GEOGCS[\"Geodetic Datum of Australia 1994, Latitude-Longitude; Degrees\",DATUM[\"Geocentric_Datum_of_Australia_1994\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6283\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4283\"]]"
+,"json_geometry":{"type":"Point","coordinates":[153.017945,-27.4980429999999]}
+}
+,{
+"json_featuretype":"BRTsTOPS"
+,"BRT1":1
+,"BRT2":2
+,"MINOFDISTA":6e-005
+,"stop_lon":153.034648
+,"stop_lat":-27.486079
+,"OID_1":49
+,"stop_name":"Woolloongabba station"
+,"DISTANCE":6e-005
+,"stop_n_2":" platform 1"
+,"INPUT_FID":49
+,"OBJECTID":50
+,"stop_id":"19050"
+,"FID":12
+,"json_ogc_wkt_crs":"GEOGCS[\"Geodetic Datum of Australia 1994, Latitude-Longitude; Degrees\",DATUM[\"Geocentric_Datum_of_Australia_1994\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6283\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4283\"]]"
+,"json_geometry":{"type":"Point","coordinates":[153.034648,-27.486079]}
+}
+,{
+"json_featuretype":"BRTsTOPS"
+,"BRT1":1
+,"BRT2":2
+,"MINOFDISTA":6e-005
+,"stop_lon":153.028212
+,"stop_lat":-27.484505
+,"OID_1":50
+,"stop_name":"Mater Hill station"
+,"DISTANCE":6e-005
+,"stop_n_2":" platform 1"
+,"INPUT_FID":50
+,"OBJECTID":51
+,"stop_id":"19051"
+,"FID":13
+,"json_ogc_wkt_crs":"GEOGCS[\"Geodetic Datum of Australia 1994, Latitude-Longitude; Degrees\",DATUM[\"Geocentric_Datum_of_Australia_1994\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6283\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4283\"]]"
+,"json_geometry":{"type":"Point","coordinates":[153.028212,-27.484505]}
+}
+,{
+"json_featuretype":"BRTsTOPS"
+,"BRT1":1
+,"BRT2":2
+,"MINOFDISTA":5e-005
+,"stop_lon":153.049471
+,"stop_lat":-27.498501
+,"OID_1":55
+,"stop_name":"Langlands Park station"
+,"DISTANCE":5e-005
+,"stop_n_2":" platform 2"
+,"INPUT_FID":55
+,"OBJECTID":56
+,"stop_id":"3001"
+,"FID":14
+,"json_ogc_wkt_crs":"GEOGCS[\"Geodetic Datum of Australia 1994, Latitude-Longitude; Degrees\",DATUM[\"Geocentric_Datum_of_Australia_1994\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6283\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4283\"]]"
+,"json_geometry":{"type":"Point","coordinates":[153.049471,-27.498501]}
+}
+,{
+"json_featuretype":"BRTsTOPS"
+,"BRT1":1
+,"BRT2":2
+,"MINOFDISTA":3e-005
+,"stop_lon":153.032878
+,"stop_lat":-27.426805
+,"OID_1":59
+,"stop_name":"Truro Street"
+,"DISTANCE":3e-005
+,"stop_n_2":" platform 2"
+,"INPUT_FID":59
+,"OBJECTID":60
+,"stop_id":"553"
+,"FID":15
+,"json_ogc_wkt_crs":"GEOGCS[\"Geodetic Datum of Australia 1994, Latitude-Longitude; Degrees\",DATUM[\"Geocentric_Datum_of_Australia_1994\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6283\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4283\"]]"
+,"json_geometry":{"type":"Point","coordinates":[153.032825791,-27.426776348]}
+}
+,{
+"json_featuretype":"BRTsTOPS"
+,"BRT1":1
+,"BRT2":2
+,"MINOFDISTA":0.0001
+,"stop_lon":153.031096
+,"stop_lat":-27.441111
+,"OID_1":61
+,"stop_name":"Federation Street"
+,"DISTANCE":0.0001
+,"stop_n_2":" platform 2"
+,"INPUT_FID":61
+,"OBJECTID":62
+,"stop_id":"562"
+,"FID":16
+,"json_ogc_wkt_crs":"GEOGCS[\"Geodetic Datum of Australia 1994, Latitude-Longitude; Degrees\",DATUM[\"Geocentric_Datum_of_Australia_1994\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6283\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4283\"]]"
+,"json_geometry":{"type":"Point","coordinates":[153.031096,-27.441111]}
+}
+,{
+"json_featuretype":"BRTsTOPS"
+,"BRT1":1
+,"BRT2":2
+,"MINOFDISTA":9e-005
+,"stop_lon":153.018234
+,"stop_lat":-27.452195
+,"OID_1":63
+,"stop_name":"QUT Kelvin Grove station"
+,"DISTANCE":9e-005
+,"stop_n_2":" platform 1"
+,"INPUT_FID":63
+,"OBJECTID":64
+,"stop_id":"884"
+,"FID":17
+,"json_ogc_wkt_crs":"GEOGCS[\"Geodetic Datum of Australia 1994, Latitude-Longitude; Degrees\",DATUM[\"Geocentric_Datum_of_Australia_1994\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6283\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4283\"]]"
+,"json_geometry":{"type":"Point","coordinates":[153.018234,-27.452195]}
+}
+,{
+"json_featuretype":"BRTsTOPS"
+,"BRT1":1
+,"BRT2":2
+,"MINOFDISTA":6e-005
+,"stop_lon":153.025316
+,"stop_lat":-27.449784
+,"OID_1":65
+,"stop_name":"RCH Herston station"
+,"DISTANCE":6e-005
+,"stop_n_2":" platform 2"
+,"INPUT_FID":65
+,"OBJECTID":66
+,"stop_id":"890"
+,"FID":18
+,"json_ogc_wkt_crs":"GEOGCS[\"Geodetic Datum of Australia 1994, Latitude-Longitude; Degrees\",DATUM[\"Geocentric_Datum_of_Australia_1994\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6283\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4283\"]]"
+,"json_geometry":{"type":"Point","coordinates":[153.025316,-27.449784]}
+}
+,{
+"json_featuretype":"BRTsTOPS"
+,"BRT1":1
+,"BRT2":2
+,"MINOFDISTA":6e-005
+,"stop_lon":153.01511
+,"stop_lat":-27.458866
+,"OID_1":67
+,"stop_name":"Normanby station"
+,"DISTANCE":6e-005
+,"stop_n_2":" platform 2"
+,"INPUT_FID":67
+,"OBJECTID":68
+,"stop_id":"892"
+,"FID":19
+,"json_ogc_wkt_crs":"GEOGCS[\"Geodetic Datum of Australia 1994, Latitude-Longitude; Degrees\",DATUM[\"Geocentric_Datum_of_Australia_1994\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6283\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4283\"]]"
+,"json_geometry":{"type":"Point","coordinates":[153.01511,-27.4588659999999]}
+}
+,{
+"json_featuretype":"BRTsTOPS"
+,"BRT1":1
+,"BRT2":2
+,"MINOFDISTA":6e-005
+,"stop_lon":153.029177
+,"stop_lat":-27.446651
+,"OID_1":69
+,"stop_name":"RBWH station"
+,"DISTANCE":6e-005
+,"stop_n_2":" platform 2"
+,"INPUT_FID":69
+,"OBJECTID":70
+,"stop_id":"896"
+,"FID":20
+,"json_ogc_wkt_crs":"GEOGCS[\"Geodetic Datum of Australia 1994, Latitude-Longitude; Degrees\",DATUM[\"Geocentric_Datum_of_Australia_1994\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6283\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4283\"]]"
+,"json_geometry":{"type":"Point","coordinates":[153.029070045,-27.4471944439999]}
+}
+,{
+"json_featuretype":"BRTsTOPS"
+,"BRT1":1
+,"BRT2":2
+,"MINOFDISTA":6e-005
+,"stop_lon":153.018344
+,"stop_lat":-27.465855
+,"OID_1":81
+,"stop_name":"Roma Street busway station"
+,"DISTANCE":6e-005
+,"stop_n_2":"platform 1"
+,"INPUT_FID":81
+,"OBJECTID":82
+,"stop_id":"10793"
+,"FID":21
+,"json_ogc_wkt_crs":"GEOGCS[\"Geodetic Datum of Australia 1994, Latitude-Longitude; Degrees\",DATUM[\"Geocentric_Datum_of_Australia_1994\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6283\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4283\"]]"
+,"json_geometry":{"type":"Point","coordinates":[153.019200973,-27.4661319689999]}
+}
+,{
+"json_featuretype":"BRTsTOPS"
+,"BRT1":0
+,"BRT2":0
+,"MINOFDISTA":0
+,"stop_lon":0
+,"stop_lat":0
+,"OID_1":0
+,"stop_name":"Greenslope busway station"
+,"DISTANCE":0
+,"stop_n_2":" "
+,"INPUT_FID":0
+,"OBJECTID":0
+,"stop_id":" "
+,"FID":22
+,"json_ogc_wkt_crs":"GEOGCS[\"Geodetic Datum of Australia 1994, Latitude-Longitude; Degrees\",DATUM[\"Geocentric_Datum_of_Australia_1994\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6283\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4283\"]]"
+,"json_geometry":{"type":"Point","coordinates":[153.040072,-27.510793]}
+}
+]
